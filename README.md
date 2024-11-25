@@ -2,7 +2,7 @@
 
 A **Real-Time Chat Application** built with modern web technologies to demonstrate WebSocket-based messaging, featuring a user-friendly interface and real-time message updates.
 
-![Chat App Screenshot]([src/main/java/org/chat/chatapp/images/web socket.PNG](https://raw.githubusercontent.com/ferhatseker180/WebChatApp/refs/heads/master/src/main/java/org/chat/chatapp/images/web%20socket.PNG))  
+<img src="https://raw.githubusercontent.com/ferhatseker180/WebChatApp/refs/heads/master/src/main/java/org/chat/chatapp/images/web%20socket.PNG" alt="Real Time Chat App"> 
 *Figure: Interface of the Real-Time Chat Application*
 
 ---
